@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-08-05T16:22:39.794015+00:00",
+  "source": "https://www.aeecenter.org/membership/member-webinars/",
+  "count": 4,
+  "webinars": [
+    {
+      "title": "Applying Indoor Air Quality Procedures for Measurable Energy Savings & Enhanced Air Quality",
+      "date_raw": "Aug 06, 2026",
+      "time_raw": "1:00 pm-2:00 pm",
+      "ceu_credits": "0.2",
+      "nonmember_price": "25",
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/applying-indoor-air-quality-procedures-for-measurable-energy-savings-enhanced-air-quality"
+    },
+    {
+      "title": "Building Automation Systems and In-Depth Controls Analysis",
+      "date_raw": "Aug 18, 2026",
+      "time_raw": "1:00 pm-2:00 pm",
+      "ceu_credits": "0.2",
+      "nonmember_price": "25",
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/building-automation-systems-and-in-depth-controls-analysis#tab-product_tab_overview"
+    },
+    {
+      "title": "The Current 101: How to Make the Most of AEE Online Communities",
+      "date_raw": "Aug 20, 2026",
+      "time_raw": "11:00 am-12:00 pm",
+      "ceu_credits": null,
+      "nonmember_price": null,
+      "members_only": true,
+      "register_url": "https://education.aeecenter.org/products/the-current-101-how-to-make-the-most-of-aee-online-communities#tab-product_tab_overview"
+    },
+    {
+      "title": "Making the Most of Any Conference",
+      "date_raw": "Aug 27, 2026",
+      "time_raw": "12:00 pm-1:00 pm",
+      "ceu_credits": null,
+      "nonmember_price": null,
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/making-the-most-of-any-conference#tab-product_tab_overview"
+    }
+  ]
+}
