@@ -1,0 +1,33 @@
+name: Update AEE Webinar Data
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # every day at 12:00 UTC (adjust as you like)
+  workflow_dispatch:        # lets you also trigger it manually from GitHub's UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scrape_webinars.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "webinar-updater-bot"
+          git config user.email "actions@github.com"
+          git add webinars.json
+          git diff --staged --quiet || git commit -m "Auto-update webinar data"
+          git push
+
