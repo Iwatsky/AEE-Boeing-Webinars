@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-08-05T16:22:39.794015+00:00",
+  "updated_at": "2026-08-07T15:12:34.895470+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 4,
+  "count": 3,
   "webinars": [
-    {
-      "title": "Applying Indoor Air Quality Procedures for Measurable Energy Savings & Enhanced Air Quality",
-      "date_raw": "Aug 06, 2026",
-      "time_raw": "1:00 pm-2:00 pm",
-      "ceu_credits": "0.2",
-      "nonmember_price": "25",
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/applying-indoor-air-quality-procedures-for-measurable-energy-savings-enhanced-air-quality"
-    },
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis",
       "date_raw": "Aug 18, 2026",
