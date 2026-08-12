@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-11T15:30:41.180785+00:00",
+  "updated_at": "2026-08-12T15:30:40.240116+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 3,
+  "count": 4,
   "webinars": [
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis",
@@ -29,6 +29,15 @@
       "nonmember_price": null,
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/making-the-most-of-any-conference#tab-product_tab_overview"
+    },
+    {
+      "title": "2026 AEE World Chapter Leadership Meeting",
+      "date_raw": "Sep 15, 2026",
+      "time_raw": "12:30 pm-2:30 pm",
+      "ceu_credits": null,
+      "nonmember_price": null,
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/2026-aee-world-chapter-leadership-meeting#tab-product_tab_overview"
     }
   ]
 }
