@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-18T14:06:49.726544+00:00",
+  "updated_at": "2026-08-19T14:07:18.687680+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 4,
+  "count": 5,
   "webinars": [
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis",
@@ -38,6 +38,15 @@
       "nonmember_price": null,
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/2026-aee-world-chapter-leadership-meeting#tab-product_tab_overview"
+    },
+    {
+      "title": "Building Automation Systems and In-Depth Controls Analysis Part 2",
+      "date_raw": "Oct 14, 2026",
+      "time_raw": "1:00 pm-2:00 pm",
+      "ceu_credits": "0.2",
+      "nonmember_price": "25",
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/building-automation-systems-and-in-depth-controls-analysis-part-2#tab-product_tab_overview"
     }
   ]
 }
