@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-08-19T14:07:18.687680+00:00",
+  "updated_at": "2026-08-20T14:10:17.907519+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 5,
+  "count": 4,
   "webinars": [
-    {
-      "title": "Building Automation Systems and In-Depth Controls Analysis",
-      "date_raw": "Aug 18, 2026",
-      "time_raw": "1:00 pm-2:00 pm",
-      "ceu_credits": "0.2",
-      "nonmember_price": "25",
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/building-automation-systems-and-in-depth-controls-analysis#tab-product_tab_overview"
-    },
     {
       "title": "The Current 101: How to Make the Most of AEE Online Communities",
       "date_raw": "Aug 20, 2026",
