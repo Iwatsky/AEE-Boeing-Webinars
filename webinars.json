@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-08-20T14:10:17.907519+00:00",
+  "updated_at": "2026-08-21T14:06:43.522653+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
   "count": 4,
   "webinars": [
-    {
-      "title": "The Current 101: How to Make the Most of AEE Online Communities",
-      "date_raw": "Aug 20, 2026",
-      "time_raw": "11:00 am-12:00 pm",
-      "ceu_credits": null,
-      "nonmember_price": null,
-      "members_only": true,
-      "register_url": "https://education.aeecenter.org/products/the-current-101-how-to-make-the-most-of-aee-online-communities#tab-product_tab_overview"
-    },
     {
       "title": "Making the Most of Any Conference",
       "date_raw": "Aug 27, 2026",
@@ -29,6 +20,15 @@
       "nonmember_price": null,
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/2026-aee-world-chapter-leadership-meeting#tab-product_tab_overview"
+    },
+    {
+      "title": "Shedding Light on Financial Calculations: Metrics for Smarter Lighting Decisions",
+      "date_raw": "Sep 30, 2026",
+      "time_raw": "11:00 am-12:00 pm",
+      "ceu_credits": "0.2",
+      "nonmember_price": "25",
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/shedding-lighting-on-financial-calculations-to-differentiate-yourself-and-close-the-sale-for-energy-efficiency#tab-product_tab_overview"
     },
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis Part 2",
