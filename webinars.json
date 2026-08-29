@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-08-28T21:50:00.233577+00:00",
+  "updated_at": "2026-08-29T12:08:17.114665+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
   "count": 5,
   "webinars": [
+    {
+      "title": "Making the Most of Any Conference",
+      "date_raw": "Aug 27, 2026",
+      "time_raw": "12:00 pm-1:00 pm",
+      "ceu_credits": null,
+      "nonmember_price": null,
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/making-the-most-of-any-conference#tab-product_tab_overview"
+    },
     {
       "title": "2026 AEE World Chapter Leadership Meeting",
       "date_raw": "Sep 15, 2026",
@@ -13,7 +22,7 @@
       "register_url": "https://education.aeecenter.org/products/2026-aee-world-chapter-leadership-meeting#tab-product_tab_overview"
     },
     {
-      "title": "CWEEL Women in Energy: A Panel Discussion",
+      "title": "CWEEL Career Committee Webinar: Women in Energy",
       "date_raw": "Sep 24, 2026",
       "time_raw": "12:00 pm-1:00 pm",
       "ceu_credits": null,
@@ -29,15 +38,6 @@
       "nonmember_price": "25",
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/shedding-lighting-on-financial-calculations-to-differentiate-yourself-and-close-the-sale-for-energy-efficiency#tab-product_tab_overview"
-    },
-    {
-      "title": "Reimagining WASH for Resilient Futures: Introducing the CWEEL Innovation Challenge",
-      "date_raw": "Oct 07, 2026",
-      "time_raw": "10:00 am-11:00 am",
-      "ceu_credits": null,
-      "nonmember_price": null,
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/reimagining-wash-for-resilient-futures-introducing-the-cweel-innovation-challenge#tab-product_tab_overview"
     },
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis Part 2",
