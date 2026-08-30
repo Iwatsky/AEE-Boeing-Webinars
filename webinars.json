@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T12:08:17.114665+00:00",
+  "updated_at": "2026-08-30T12:07:49.806912+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 5,
+  "count": 4,
   "webinars": [
     {
       "title": "Making the Most of Any Conference",
@@ -20,15 +20,6 @@
       "nonmember_price": null,
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/2026-aee-world-chapter-leadership-meeting#tab-product_tab_overview"
-    },
-    {
-      "title": "CWEEL Career Committee Webinar: Women in Energy",
-      "date_raw": "Sep 24, 2026",
-      "time_raw": "12:00 pm-1:00 pm",
-      "ceu_credits": null,
-      "nonmember_price": null,
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/cweel-career-committee-webinar-women-in-energy#tab-product_tab_overview"
     },
     {
       "title": "Shedding Light on Financial Calculations: Metrics for Smarter Lighting Decisions",
