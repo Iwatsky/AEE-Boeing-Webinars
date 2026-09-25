@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-09-24T16:47:49.685090+00:00",
+  "updated_at": "2026-09-25T16:52:40.706105+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 6,
+  "count": 5,
   "webinars": [
-    {
-      "title": "CWEEL Women in Energy: A Panel Discussion",
-      "date_raw": "Sep 24, 2026",
-      "time_raw": "12:00 pm-1:00 pm",
-      "ceu_credits": null,
-      "nonmember_price": null,
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/cweel-career-committee-webinar-women-in-energy#tab-product_tab_overview"
-    },
     {
       "title": "Shedding Light on Financial Calculations: Metrics for Smarter Lighting Decisions",
       "date_raw": "Sep 30, 2026",
