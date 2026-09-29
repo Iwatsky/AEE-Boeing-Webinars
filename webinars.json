@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T19:26:15.036004+00:00",
+  "updated_at": "2026-09-29T17:53:38.732728+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 5,
+  "count": 6,
   "webinars": [
     {
       "title": "Shedding Light on Financial Calculations: Metrics for Smarter Lighting Decisions",
@@ -38,6 +38,15 @@
       "nonmember_price": "25",
       "members_only": false,
       "register_url": "https://education.aeecenter.org/products/overhauling-lighting-and-critical-power-strategies-at-costco#tab-product_tab_overview"
+    },
+    {
+      "title": "Making the Case: How to Advocate for Professional Development Funding",
+      "date_raw": "Oct 29, 2026",
+      "time_raw": "12:00 pm-1:00 pm",
+      "ceu_credits": null,
+      "nonmember_price": null,
+      "members_only": false,
+      "register_url": "https://education.aeecenter.org/products/cweel-career-advancement-committee-professional-development-webinar#tab-product_tab_overview"
     },
     {
       "title": "Analyzing the Environmental Impact of AI",
