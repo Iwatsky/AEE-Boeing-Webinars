@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-09-29T17:53:38.732728+00:00",
+  "updated_at": "2026-09-30T17:48:30.117611+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 6,
+  "count": 5,
   "webinars": [
-    {
-      "title": "Shedding Light on Financial Calculations: Metrics for Smarter Lighting Decisions",
-      "date_raw": "Sep 30, 2026",
-      "time_raw": "11:00 am-12:00 pm",
-      "ceu_credits": "0.2",
-      "nonmember_price": "25",
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/shedding-lighting-on-financial-calculations-to-differentiate-yourself-and-close-the-sale-for-energy-efficiency#tab-product_tab_overview"
-    },
     {
       "title": "Reimagining WASH for Resilient Futures: Introducing the CWEEL Innovation Challenge",
       "date_raw": "Oct 07, 2026",
