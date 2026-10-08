@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-10-07T18:39:57.800537+00:00",
+  "updated_at": "2026-10-08T18:38:31.602154+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 5,
+  "count": 4,
   "webinars": [
-    {
-      "title": "Reimagining WASH for Resilient Futures: Introducing the CWEEL Innovation Challenge",
-      "date_raw": "Oct 07, 2026",
-      "time_raw": "10:00 am-11:00 am",
-      "ceu_credits": null,
-      "nonmember_price": null,
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/reimagining-wash-for-resilient-futures-introducing-the-cweel-innovation-challenge#tab-product_tab_overview"
-    },
     {
       "title": "Building Automation Systems and In-Depth Controls Analysis Part 2",
       "date_raw": "Oct 13, 2026",
