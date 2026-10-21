@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-10-20T16:34:53.082358+00:00",
+  "updated_at": "2026-10-21T16:52:55.914575+00:00",
   "source": "https://www.aeecenter.org/membership/member-webinars/",
-  "count": 3,
+  "count": 2,
   "webinars": [
-    {
-      "title": "Overhauling Lighting and Critical Power Strategies at Costco",
-      "date_raw": "Oct 20, 2026",
-      "time_raw": "1:00 pm-2:00 pm",
-      "ceu_credits": "0.2",
-      "nonmember_price": "25",
-      "members_only": false,
-      "register_url": "https://education.aeecenter.org/products/overhauling-lighting-and-critical-power-strategies-at-costco#tab-product_tab_overview"
-    },
     {
       "title": "Making the Case: How to Advocate for Professional Development Funding",
       "date_raw": "Oct 29, 2026",
